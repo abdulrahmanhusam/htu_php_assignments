@@ -1,0 +1,30 @@
+#lib-hero{
+    height: 65vh;
+    background-image: url('../images/herobg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#lib-hero>div{
+    background-color: rgb(236, 236, 236);
+    opacity: 0.9;
+}
+#search-icon-position{
+    margin-left: -3.4rem;
+    margin-bottom: 1.5rem;
+}
+
+.navbar .container-fluid .navbar-brand{
+    font-family: cursive;
+    color: white;
+    
+}
+.container .card .card-img-top{
+    height: 65vh;
+    
+}
+.col-9 .row .col-4 .card-img-top{
+    height: 40vh;
+}
